@@ -1,0 +1,23 @@
+{
+  "development": {
+    "user": "root",
+    "password": "Xfusion1#mysql",
+    "database": "userDB",
+    "host": "127.0.0.1",
+    "port": 3306
+  },
+  "test": {
+    "user": "root",
+    "password": "Xfusion1#mysql",
+    "database": "userDB_test",
+    "host": "127.0.0.1",
+    "port": 3306
+  },
+  "production": {
+    "user": "root",
+    "password": "root",
+    "database": "userDB_production",
+    "host": "127.0.0.1",
+    "port": 3306
+  }
+}
